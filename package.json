@@ -1,0 +1,19 @@
+{
+  "name": "ideletronica",
+  "version": "1.0.0",
+  "description": "Este repositório apresenta um exemplo de integração entre uma aplicação (Service Provider) e o Keycloak. O objetivo é demonstrar como autenticar e autorizar usuários em uma aplicação utilizando o Keycloak como provedor de identidade.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1"
+  }
+}

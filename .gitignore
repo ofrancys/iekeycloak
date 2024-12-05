@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# # Environment variables
+# .env
+# .env.local
+# .env.*.local
+
+# Docker volumes
+postgres_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+#http://localhost:8080/admin/master/console/
